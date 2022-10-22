@@ -1,0 +1,13 @@
+.counter {
+    width: 110px;
+    height: 110px;
+    background-color: lightsalmon;
+    margin: 20px auto;
+    font-size: 75px;
+}
+
+.resetButton {
+    margin-top: 20px;
+    width: 150px;
+    background-color: rgb(205, 135, 135);
+}
